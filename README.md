@@ -1,4 +1,4 @@
-Program Car Rental (Berbasis Bahasa C++)
+Program Car Rental Object Oriented Programming (Berbasis Bahasa C++)
 
 PASSWORD LOGIN : admin
 
