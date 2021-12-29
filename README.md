@@ -2,9 +2,6 @@ Program Car Rental Object Oriented Programming (Berbasis Bahasa C++)
 
 PASSWORD LOGIN : admin
 
-Link Youtube Demo Program yang kami buat: 
-https://www.youtube.com/watch?v=F6s_jKMXIGM 
-
 Program ini memiliki beberapa fitur, yaitu:
 1. Menampilkan Daftar Mobil 
 2. Menambahkan Reservasi
